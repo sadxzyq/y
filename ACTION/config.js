@@ -12,7 +12,7 @@ const chalk = require('chalk')
 
 global.PulsaTelkomNo1 = "0877-0504-8235" //Jika Tidak Punya Jangan Ganti Tar Error
 global.PulsaTelkomNo2 = "0823-0733-5943" //Jika Tidak Punya Jangan Ganti Tar Error
-global.shopeepayno = "null" //Jika Tidak Punya Jangan Ganti Tar Error
+global.shopeepayno = "null." //Jika Tidak Punya Jangan Ganti Tar Error
 global.nomerOwner = "6282285357346" //Bebas ganti 
 global.namaOwner = "DarkBot" //Bebas ganti
 global.namaBot = "DarkBot" //Bebas ganti asal jangan pake font
